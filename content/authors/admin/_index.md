@@ -6,7 +6,7 @@ title: 전영상
 superuser: true
 
 # Role/position
-role: '학생'
+role: '대학생'
 
 # Status emoji
 status:
