@@ -14,8 +14,8 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: 腾讯
-  url: ""
+- name: 전북대학교 컴퓨터공학부
+  url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
