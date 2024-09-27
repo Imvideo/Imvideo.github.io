@@ -6,7 +6,11 @@
 main:
   - name: Home
     url: /
-    weight: 10
+    weight: 100
   - name: Resumé
     url: about/
-    weight: 20
+    weight: 200
+  - name: Contact
+    url: contact/
+    weight: 300
+  
