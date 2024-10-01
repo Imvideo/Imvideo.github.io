@@ -1,21 +1,7 @@
 ---
-# An instance of the About widget.
-# Documentation: https://docs.hugoblox.com/page-builder/
-widget: medicineChatBot
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: false
-
-# Order that this section appears on the page.
-weight: 10
-
-title: medicineChatBot
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://docs.hugoblox.com/get-started/#introduce-yourself
-author: admin
+title: "Medicine ChatBot 프로젝트"
+date: 2024-09-30
+description: "의료 챗봇 개발 프로젝트"
 ---
+# Medicine ChatBot
+이 프로젝트는 의료 정보를 제공하는 챗봇 개발 프로젝트입니다.
