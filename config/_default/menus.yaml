@@ -12,20 +12,20 @@ main:
     url: about/
     weight: 200
 
-  - name: Projects
-    url: projects/
+  - name: Project
+    url: project/
     weight: 300
-  - parent: Projects
+  - parent: Project
     name: webRTC
-    url: projects/webRTC
+    url: project/webRTC
     weight: 310
-  - parent: Projects
+  - parent: Project
     name: medicineChatBot
-    url: projects/medicineChatBot
+    url: project/medicineChatBot
     weight: 320
-  - parent: Projects
+  - parent: Project
     name: UniversityApp
-    url: projects/UniversityApp
+    url: project/UniversityApp
     weight: 330
 
   - name: Contact
