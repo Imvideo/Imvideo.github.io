@@ -7,12 +7,19 @@ main:
   - name: Home
     url: /
     weight: 100
+
   - name: Resumé
     url: about/
     weight: 200
+
   - name: Projects
     url: projects/
     weight: 300
+  - parent: Projects
+    name: webRTC
+    url: projects/webRTC
+    weight: 310
+
   - name: Contact
     url: contact/
     weight: 400
