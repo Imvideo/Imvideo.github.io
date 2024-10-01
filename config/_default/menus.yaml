@@ -24,8 +24,8 @@ main:
     url: project/medicineChatBot
     weight: 320
   - parent: Project
-    name: UniversityApp
-    url: project/UniversityApp
+    name: universityApp
+    url: project/universityApp
     weight: 330
 
   - name: Contact
