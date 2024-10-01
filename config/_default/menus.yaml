@@ -17,15 +17,15 @@ main:
     weight: 300
   - parent: Project
     name: webRTC
-    url: project/webRTC
+    url: project/webRTC/
     weight: 310
   - parent: Project
     name: medicineChatBot
-    url: project/medicineChatBot
+    url: project/medicineChatBot/
     weight: 320
   - parent: Project
     name: universityApp
-    url: project/universityApp
+    url: project/universityApp/
     weight: 330
 
   - name: Contact
