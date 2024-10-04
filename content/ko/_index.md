@@ -1,6 +1,6 @@
-title:
+title: 전영상 포트폴리오
 date: 2024-10-05
-type: landging
+type: landing
 
 sections:
   - block: intro
