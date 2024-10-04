@@ -12,11 +12,10 @@ headless: false
 # Order that this section appears on the page.
 weight: 10
 
-
+title: Contact
 type: landing
 
 sections:
-    - block: contact
     content:
         title: 연락주세요!
         coordinates:
