@@ -8,27 +8,31 @@ main:
     url: /
     weight: 100
 
-  - name: about
+  - name: About Me
     url: about/
     weight: 200
 
+  - name: Skills
+    url: skill/
+    weight: 300
+
   - name: Project
     url: project/
-    weight: 300
+    weight: 400
   - parent: Project
     name: webRTC
     url: project/webrtc/
-    weight: 310
+    weight: 410
   - parent: Project
     name: medicineChatBot
     url: project/medicinechatbot/
-    weight: 320
+    weight: 420
   - parent: Project
     name: undeadsurvivor
     url: project/undeadsurvivor/
-    weight: 330
+    weight: 430
 
   - name: Contact
     url: contact/
-    weight: 400
+    weight: 500
   
