@@ -37,12 +37,43 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          
       
       - title: <span style="font-size:70%">Spring boot</span>
         align: center
         background:
           image:
             filename: springboot.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">C#</span>
+        align: center
+        background:
+          image:
+            filename: csharp.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">C++</span>
+        align: center
+        background:
+          image:
+            filename: cpp.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">React</span>
+        align: center
+        background:
+          image:
+            filename: react.jpg
             filters:
               brightness: 0.4
           position: center
