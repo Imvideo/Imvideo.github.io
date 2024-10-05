@@ -26,7 +26,7 @@ sections:
         tag: 'GAME'
     design:
       view: community/custom_card
-      columns: '2'
+      columns: '1'
 
 
 ---
