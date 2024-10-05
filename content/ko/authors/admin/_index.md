@@ -50,7 +50,7 @@ social:
     link: https://github.com/Imvideo
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/yeongsang5
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
