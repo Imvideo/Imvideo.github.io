@@ -24,7 +24,7 @@ sections:
       order: desc
       filters:
         folders:
-          - notification
+          - project/undeadsurvivor
           - post
           - event
     design:
