@@ -28,6 +28,16 @@ sections:
           position: center
           color: '#000'
 
+      - title: <span style="font-size:70%">Python</span>
+        align: center
+        background:
+          image:
+            filename: python.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '350px'
