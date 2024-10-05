@@ -8,7 +8,7 @@ sections:
   - block: features
     content:
       title: "Skills"
-      text: "<br>JAVA <br>Python <br>Spring boot <br>C# <br>C++ <br>React"
+      text: "<div style='font-size: 20px;'>JAVA<br>Python<br>Spring Boot<br>C#<br>C++<br>React</div>"
 
     design:
       columns: '2'
