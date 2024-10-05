@@ -40,7 +40,7 @@ sections:
       filters:
         tag: 'GAME'
     design:
-      view: community/custom_card
+      view: community/custom_compact
       columns: '1'
 
 
