@@ -6,7 +6,8 @@ type: landing
 sections:
   - block: features
     content:
-      text: <span style="font-size:90%">안녕하세요 컴퓨터공학부 21학번 전영상입니다.</span>
+      title: <span style="font-size:90%">안녕하세요!</span>
+      text:  <span style="font-size:90%">저는 전북대 컴퓨터공학부에 재학중입니다. 관심분야는 백엔드입니다.</span>
       image: 
         filename: pingu.jpg
 
