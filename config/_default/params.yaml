@@ -17,8 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Jeon Young Sang's portfolio site'
+    org_name: 'Jeon Young Sang Portfolio'
+    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
