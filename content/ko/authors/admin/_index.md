@@ -18,7 +18,7 @@ organizations:
   url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 백엔드 개발자를 지망하는 대학생입니다.
 
 #interests:
 #- Artificial Intelligence
@@ -66,6 +66,6 @@ social:
 email: "iwtl0303@naver.com"
 ---
 
-전영상은 전북대학교 컴퓨터공학부에 재학중인 학생입니다.
+저는 전북대학교 컴퓨터공학부에 재학중인 학생입니다. 관심분야는 백엔드 입니다.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
