@@ -1,37 +1,25 @@
 ---
 title: Skills
 date: 2022-10-24
-
 type: landing
 
 sections:
   - block: features
     content:
-      title: "Skills"
-      text: "제가 사용한 기술들 입니다."
-
+      title: Skills
+      text: |
+        <p style="text-align: justify;">
+          <span style="font-size:95%">전북대학교 컴퓨터공학부 21학번 전영상입니다. 백엔드에 관심있습니다. 연락은 아래를 통해주시면 감사하겠습니다.</span>
+        </p>
     design:
-      columns: '2'
+      columns: '3'
 
-  - block: features
+  - block: custom
     content:
-      title: "Java"
-      text: "Java는 플랫폼 독립적인 프로그래밍 언어로, 다양한 어플리케이션에서 사용됩니다."
-      image:
-        filename: /assets/media/java.jpg  # 자바 관련 이미지 파일 이름
-        placement: 1
-        focal_point: "Center"
-    design:
-      layout: "horizontal"
-
-  - block: features
-    content:
-      title: "Python"
-      text: "Python은 읽기 쉬운 문법과 다양한 라이브러리로 유명한 프로그래밍 언어입니다."
-      image:
-        filename: /assets/media/python.jpg  # 파이썬 관련 이미지 파일 이름
-        placement: 1
-        focal_point: "Center"
-    design:
-      layout: "horizontal"
+      - icon:
+          name: 'fab fa-java'
+          text: <p>Java는 객체 지향 프로그래밍 언어입니다.</p>
+      - icon:
+          name: 'fab fa-python'
+          text: <p>Python은 데이터 과학 및 웹 개발에 널리 사용됩니다.</p>
 ---
