@@ -24,8 +24,8 @@ main:
     url: project/medicinechatbot/
     weight: 320
   - parent: Project
-    name: universityApp
-    url: project/universityapp/
+    name: undeadsurvivor
+    url: project/undeadsurvivor/
     weight: 330
 
   - name: Contact
