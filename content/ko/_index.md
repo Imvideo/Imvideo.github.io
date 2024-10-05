@@ -6,10 +6,9 @@ type: landing
 sections:
   - block: features
     content:
-      text: <span style="font-size:100%">안녕하세요 컴퓨터공학부 21학번 전영상입니다.</span>
+      text: <span style="font-size:90%">안녕하세요 컴퓨터공학부 21학번 전영상입니다.</span>
       image: 
-        src: "/images/avatar.jpg"
-        alt: "소개 이미지"
-        style: "width:200px;"
+        filename: pingu.jpg
+
 ---
 
