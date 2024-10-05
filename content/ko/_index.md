@@ -7,7 +7,7 @@ sections:
   - block: features
     content:
       title: <span style="font-size:90%">안녕하세요!</span>
-      text:  <span style="font-size:90%">저는 전북대 컴퓨터공학부에 재학중입니다. 관심분야는 백엔드입니다.</span>
+      text:  <span style="font-size:90%">저는 전북대 컴퓨터공학부에 재학중인 21학번 전영상입니다. 백엔드에 관심이 있어 현재 Springboot 및 JAVA를 공부하고 있습니다.</span>
       image: 
         filename: pingu.jpg
 
