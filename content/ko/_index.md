@@ -6,6 +6,7 @@ type: landing
 sections:
   - block: features
     content:
+      profile: true
       image: 
         placement : 1
         focal_point: "Center"
