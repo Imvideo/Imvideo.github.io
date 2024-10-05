@@ -7,10 +7,7 @@ sections:
   - block: features
     content:
       title: Skills
-      text: |
-        <p style="text-align: justify;">
-          <span style="font-size:95%">전북대학교 컴퓨터공학부 21학번 전영상입니다. 백엔드에 관심있습니다. 연락은 아래를 통해주시면 감사하겠습니다.</span>
-        </p>
+      
     design:
       columns: '3'
 
