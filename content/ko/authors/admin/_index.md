@@ -44,7 +44,7 @@ bio: 백엔드 개발자를 지망하는 대학생입니다.
 social:
   - icon: envelope
     icon_pack: fab
-    link: "iwtl0303@naver.com" # For a direct email link, use "mailto:test@example.org".
+    mailto: "iwtl0303@naver.com" # For a direct email link, use "mailto:test@example.org".
   - icon: github
     icon_pack: fab
     link: https://github.com/Imvideo
