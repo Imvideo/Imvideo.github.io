@@ -4,33 +4,33 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /
-    weight: 100
-
   - name: About Me
     url: about/
-    weight: 200
+    weight: 100
 
   - name: Skills
     url: skill/
-    weight: 300
+    weight: 200
 
   - name: Project
     url: project/
-    weight: 400
+    weight: 300
   - parent: Project
     name: webRTC
     url: project/webrtc/
-    weight: 410
+    weight: 310
   - parent: Project
     name: medicineChatBot
     url: project/medicinechatbot/
-    weight: 420
+    weight: 320
   - parent: Project
     name: undeadsurvivor
     url: project/undeadsurvivor/
-    weight: 430
+    weight: 330
+
+  - name: Hobby
+    url: hobby/
+    weight: 400
 
   - name: Contact
     url: contact/
