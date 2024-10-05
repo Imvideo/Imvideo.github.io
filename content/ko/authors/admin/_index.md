@@ -43,8 +43,8 @@ bio: 백엔드 개발자를 지망하는 대학생입니다.
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fab
-    mailto: "iwtl0303@naver.com" # For a direct email link, use "mailto:test@example.org".
+    icon_pack: fas
+    link: mailto:iwtl0303@naver.com # For a direct email link, use "mailto:test@example.org".
   - icon: github
     icon_pack: fab
     link: https://github.com/Imvideo
