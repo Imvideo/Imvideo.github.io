@@ -23,10 +23,7 @@ sections:
       offset: 0
       order: desc
       filters:
-        folders:
-          - undeadsurvivor
-          - post
-          - event
+        tag: 'GAME'
     design:
       view: community/custom_card
       columns: '2'
