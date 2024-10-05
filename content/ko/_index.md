@@ -15,9 +15,8 @@ sections:
   
   - block: slider
     content:
-      title: <span style="font-size:90%">Stack</span>
+      title: <span style="font-size:90%">Skills</span>
       slides:
-
       - title: <span style="font-size:70%">JAVA</span>
         align: center
         background:
