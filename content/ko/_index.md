@@ -25,7 +25,7 @@ sections:
       filters:
         tag: 'BE'
     design:
-      view: community/custom_card
+      view: community/custom_compact
       columns: '1'
   
   - block: collection
@@ -40,7 +40,7 @@ sections:
       filters:
         tag: 'GAME'
     design:
-      view: community/custom_compact
+      view: community/custom_card
       columns: '1'
 
 
