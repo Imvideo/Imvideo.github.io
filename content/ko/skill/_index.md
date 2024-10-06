@@ -15,6 +15,7 @@ banner:
 sections:
   - block: features
     content:
+      image: 'skillpage.jpg'
       title: "Skills"
       text: |
         <div style="font-size: 20px; text-align: center;">
