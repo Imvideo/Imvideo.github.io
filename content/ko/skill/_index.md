@@ -10,12 +10,12 @@ sections:
       title: "Skills"
       text: |
         <div style='font-size: 20px;'>
-          <i class="devicon-java-plain"></i> JAVA<br>
-          <i class="devicon-python-plain"></i> Python<br>
-          <i class="devicon-spring-plain"></i> Spring Boot<br>
-          <i class="devicon-csharp-plain"></i> C#<br>
-          <i class="devicon-cplusplus-plain"></i> C++<br>
-          <i class="devicon-react-original"></i> React
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java Icon" style="width: 24px; height: 24px;"/> JAVA<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Icon" style="width: 24px; height: 24px;"/> Python<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot Icon" style="width: 24px; height: 24px;"/> Spring Boot<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Icon" style="width: 24px; height: 24px;"/> C#<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ Icon" style="width: 24px; height: 24px;"/> C++<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Icon" style="width: 24px; height: 24px;"/> React
         </div>
 
     design:
