@@ -104,7 +104,7 @@ sections:
         tag: 'BE'
     design:
       view: community/custom_compact
-      columns: '1'
+      columns: '3'
   
   - block: collection
     content:
@@ -119,7 +119,22 @@ sections:
         tag: 'GAME'
     design:
       view: community/custom_card
-      columns: '1'
+      columns: '3'
+
+  - block: collection
+    content:
+      id: section-3
+      title: Paintings
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        tag: 'painting'
+    design:
+      view: community/custom_card
+      columns: '3'
 
 
 
