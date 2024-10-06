@@ -2,6 +2,14 @@
 title: Contact
 date: 2022-10-24
 
+# Listing view
+view: community/custom_card
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'contact.jpg'
+
 type: landing
 
 sections:
