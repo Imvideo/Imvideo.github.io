@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 전영상
+title: Jeon Young Sang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: '대학생'
+role: '4th year undergraduate student'
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: 전북대학교 컴퓨터공학부
+- name: Jeonbuk National University Computer Engineering
   url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a college student aspiring to be a backend developer.
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: mailto:iwtl0303@naver.com # For a direct email link, use "mailto:test@example.org".
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://github.com/Imvideo
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/yeongsang5
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,6 +66,6 @@ social:
 email: "iwtl0303@naver.com"
 ---
 
-전영상은 전북대학교 컴퓨터공학부에 재학중인 학생입니다.
+I'm YoungSang Jeon, a computer science major at Chonbuk National University, and I'm currently in the second semester of my senior year. I am an aspiring backend developer, and my goal is to develop services that help people.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

@@ -1,8 +1,8 @@
 ---
 title: medicinechatbot
-summary: 약 추천 챗봇입니다.
+summary: This is a medication recommendation chatbot. You can select a symptom button or enter your own symptoms to get medication recommendations.
 tags:
-  - DATA
-date: 2022-01-01
+  - BE
+date: 2024-10-05
 external_link: https://github.com/Imvideo/medicine-chatbot
 ---

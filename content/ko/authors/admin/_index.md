@@ -6,7 +6,7 @@ title: 전영상
 superuser: true
 
 # Role/position
-role: '대학생'
+role: '대학생 4학년'
 
 # Status emoji
 status:
@@ -66,6 +66,6 @@ social:
 email: "iwtl0303@naver.com"
 ---
 
-저는 전북대학교 컴퓨터공학부에 재학중인 학생입니다. 관심분야는 백엔드 입니다.
+전북대학교 컴퓨터공학부 21학번 전영상입니다. 24년 현재 4-2 재학중입니다. 백엔드 개발자 지망생이며 사람에게 도움이 되는 서비스를 개발하는 것이 목표입니다.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
