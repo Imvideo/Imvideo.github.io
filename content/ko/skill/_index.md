@@ -6,11 +6,13 @@ type: landing
 # Listing view
 view: community/custom_card
 
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  image: 'skillpage.jpg'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+
+
 sections:
-  - block: banner
-    content:
-      image: 'skillpage.jpg'
-      caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
   - block: features
     content:
       title: "Skills"
