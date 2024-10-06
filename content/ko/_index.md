@@ -108,6 +108,22 @@ sections:
   
   - block: collection
     content:
+      id: section-3
+      title: Paintings
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        tag: 'PAINTING'
+    design:
+      view: community/custom_card
+      columns: '1'
+
+      
+  - block: collection
+    content:
       id: section-2
       title: Game
       subtitle:
@@ -121,20 +137,7 @@ sections:
       view: community/custom_card
       columns: '1'
 
-  - block: collection
-    content:
-      id: section-3
-      title: Paintings
-      subtitle:
-      text:
-      count: 3
-      offset: 0
-      order: desc
-      filters:
-        tag: 'PAINTING'
-    design:
-      view: community/custom_card
-      columns: '1'
+  
 
 
 
