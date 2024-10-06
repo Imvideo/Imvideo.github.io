@@ -29,7 +29,7 @@
 {{ end }}
 
 <div class="media stream-item view-compact">
-    <div class="ml-3">
+    <div class="ml-3" style="margin-right: 20px;"> <!-- 여기에 여백 추가 -->
       {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
       {{ with $resource }}
         {{ $image := .Resize "500x" }} <!-- 이미지 크기를 500px로 변경 -->
@@ -85,5 +85,6 @@
       <div style="margin-bottom: 50px;"></div>
     </div>
 </div>
+
 
   
