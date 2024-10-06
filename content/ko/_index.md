@@ -104,7 +104,7 @@ sections:
         tag: 'BE'
     design:
       view: community/custom_compact
-      columns: '3'
+      columns: '1'
   
   - block: collection
     content:
@@ -119,7 +119,7 @@ sections:
         tag: 'GAME'
     design:
       view: community/custom_card
-      columns: '3'
+      columns: '1'
 
   - block: collection
     content:
@@ -134,7 +134,7 @@ sections:
         tag: 'painting'
     design:
       view: community/custom_card
-      columns: '3'
+      columns: '1'
 
 
 
