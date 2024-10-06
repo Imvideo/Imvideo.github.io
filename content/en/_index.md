@@ -133,7 +133,7 @@ sections:
       filters:
         tag: 'PAINTING'
     design:
-      view: community/custom_card
+      view: community/custom_compact_reverse
       columns: '1'
 
 ---
