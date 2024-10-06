@@ -31,6 +31,18 @@ main:
   - name: Paintings
     url: paintings/
     weight: 400
+  - parent: Paintings
+    name: croquis
+    url: paintings/croquis/
+    weight: 410
+  - parent: Paintings
+    name: croquis
+    url: paintings/hands/
+    weight: 420
+  - parent: Paintings
+    name: croquis
+    url: paintings/things/
+    weight: 430
 
   - name: Contact
     url: contact/

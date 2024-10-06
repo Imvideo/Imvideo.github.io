@@ -1,5 +1,5 @@
 ---
-title: hamds
+title: hands
 summary: 손을 묘사합니다.
 tags:
   - PAINTING
