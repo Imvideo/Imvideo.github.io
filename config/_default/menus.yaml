@@ -36,11 +36,11 @@ main:
     url: paintings/croquis/
     weight: 410
   - parent: Paintings
-    name: croquis
+    name: hands
     url: paintings/hands/
     weight: 420
   - parent: Paintings
-    name: croquis
+    name: things
     url: paintings/things/
     weight: 430
 
