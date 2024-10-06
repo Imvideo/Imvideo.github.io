@@ -131,7 +131,7 @@ sections:
       offset: 0
       order: desc
       filters:
-        tag: 'painting'
+        tag: 'PAINTING'
     design:
       view: community/custom_card
       columns: '1'
