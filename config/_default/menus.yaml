@@ -28,8 +28,8 @@ main:
     url: project/undeadsurvivor/
     weight: 330
 
-  - name: Hobby
-    url: hobby/
+  - name: Paintings
+    url: paintings/
     weight: 400
 
   - name: Contact
