@@ -6,9 +6,6 @@ type: landing
 # Listing view
 view: community/custom_card
 
-
-
-
 sections:
   - block: banner
     content:
