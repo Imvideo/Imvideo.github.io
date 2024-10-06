@@ -8,7 +8,15 @@ sections:
   - block: features
     content:
       title: "Skills"
-      text: "<div style='font-size: 20px;'>JAVA<br>Python<br>Spring Boot<br>C#<br>C++<br>React</div>"
+      text: |
+        <div style='font-size: 20px;'>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java Icon" style="width: 24px; height: 24px;"/> JAVA<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Icon" style="width: 24px; height: 24px;"/> Python<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot Icon" style="width: 24px; height: 24px;"/> Spring Boot<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Icon" style="width: 24px; height: 24px;"/> C#<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ Icon" style="width: 24px; height: 24px;"/> C++<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Icon" style="width: 24px; height: 24px;"/> React
+        </div>
 
     design:
       columns: '2'
