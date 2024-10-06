@@ -1,5 +1,5 @@
 ---
-title: undeadsurvivor_levelup
+title: undeadsurvivor_selectPlayer
 summary: 언데드 서바이벌의 캐릭터 선택 장면입니다.
 tags:
   - GAME

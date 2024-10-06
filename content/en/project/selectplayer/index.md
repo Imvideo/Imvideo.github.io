@@ -1,5 +1,5 @@
 ---
-title: undeadsurvivor_levelup
+title: undeadsurvivor_selectPlayer
 summary: A character selection scene from Undead Survivor.
 tags:
   - GAME
